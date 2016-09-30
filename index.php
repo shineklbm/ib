@@ -1,3 +1,3 @@
 <html>
-	<p>This is from development server!</p>
+	<p>Dev Server is here</p>
 </html>
