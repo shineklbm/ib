@@ -1,3 +1,3 @@
 <html>
-	<p>This is from staging server!</p>
+	<p>This is from production server!</p>
 </html>
